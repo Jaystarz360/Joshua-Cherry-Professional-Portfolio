@@ -27,4 +27,4 @@ Explination and Usage
 Website will be used to introduce myself and my work to others.
 The following screenshot displays the web application's appearance:
 
-![Alt text](image-1.png)
+![Alt text](images/image-1.png)
